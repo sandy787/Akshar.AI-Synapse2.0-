@@ -1,4 +1,4 @@
-# Gemini Route Finder
+# Akshar.AI
 
 An integrated application that combines Google's Gemini AI with Google Maps API to extract route requests from images and provide directions.
 
